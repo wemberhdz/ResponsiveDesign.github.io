@@ -39,7 +39,6 @@
  .productos{
     display: grid;
     grid-template-columns: 1fr;
-    padding: 0;
     justify-content: center;
     align-items: center;
 }
